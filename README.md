@@ -1,10 +1,10 @@
-# 🚀 Verilog - Digital - Design - Basics
+#  Verilog - Digital - Design - Basics
 
 A collection of fundamental digital design modules implemented in **Verilog HDL**, covering essential building blocks used in modern digital systems. This repository is aimed at strengthening core concepts of **combinational and arithmetic logic design**.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project includes implementations of:
 
@@ -16,7 +16,7 @@ The goal is to build a **strong foundation in digital design using Verilog**, wi
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 
 - Combinational Logic Design  
 - Propagate & Generate Logic  
@@ -26,26 +26,26 @@ The goal is to build a **strong foundation in digital design using Verilog**, wi
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ---
 
-## ⚙️ Module Details
+##  Module Details
 
-### 🔹 4-bit Full Adder (Ripple Carry)
+###  4-bit Full Adder (Ripple Carry)
 
 - Basic implementation using cascading full adders
 - Simpler but slower due to sequential carry propagation
 
 ---
 
-### 🔹 4-bit Carry Lookahead Adder (CLA)
+###  4-bit Carry Lookahead Adder (CLA)
 
 - Uses **Generate (G)** and **Propagate (P)** logic
 - Faster than ripple carry adder
 - Carry equations:
 
-## 🧪 Simulation
+##  Simulation
 
 Each module includes a testbench to verify correctness.
 
